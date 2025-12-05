@@ -1,0 +1,14 @@
+# Ignorar archivos temporales y de entorno
+__pycache__/
+*.pyc
+*.pyo
+*.env
+*.DS_Store
+
+# Ignorar dependencias instaladas
+venv/
+env/
+
+# Ignorar configuraciones locales
+.idea/
+.vscode/
